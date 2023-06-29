@@ -1,0 +1,13 @@
+F: El ala-pívot o ala-caza es un jugador que se ubica en la posición F. Este jugador es el encargado de anotar puntos en el área pintada, tanto a través de tiros de campo como de cerca del aro. También puede ser responsable de rebotes ofensivos y defensivos.
+
+C: El pívot o centro es un jugador que ocupa la posición C. Este jugador es el encargado de jugar en el área pintada y es el principal responsable de proteger el aro. También es el encargado de capturar rebotes ofensivos y defensivos.
+
+G: El escolta o base es un jugador que ocupa la posición G. Este jugador es el encargado de manejar el balón y llevarlo al ataque. También es el encargado de anotar puntos desde la periferia del campo y de hacer asistencias a sus compañeros.
+
+F-C: Un jugador que ocupa la posición F-C es un jugador que puede jugar tanto en la posición F como en la posición C. Estos jugadores suelen tener habilidades tanto de tiro como de juego en el área pintada.
+
+C-F: Un jugador que ocupa la posición C-F es un jugador que puede jugar tanto en la posición C como en la posición F. Estos jugadores suelen tener habilidades tanto de juego en el área pintada como de tiro.
+
+G-F: Un jugador que ocupa la posición G-F es un jugador que puede jugar tanto en la posición G como en la posición F. Estos jugadores suelen tener habilidades tanto de anotación como de manejo del balón.
+
+F-G: Un jugador que ocupa la posición F-G es un jugador que puede jugar tanto en la posición F como en la posición G. Estos jugadores suelen tener habilidades tanto de anotación como de juego en el área pintada.

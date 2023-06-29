@@ -1,0 +1,26 @@
+<-- Vamos a intentar agruparlos en varios grupos -->
+PESCADO: shrimp, salmon, fresh tuna
+CARNE: burgers, meatballs, turkey, chicken, ham, ground beef, escalope, hot dogs, bacon
+FRUTOS SECOS: almonds <!-- Sin convertir -->
+VERDURA: vegetables mix, yams, salad, spinach, shallot, pickles, zucchini, frozen vegetables, tomatoes, pepper, asparagus, carrots, eggplant, cauliflower, green beans
+FRUTA: avocado, green grapes, strawberries, corn, blueberries, melons, bramble
+LACTEOS: low fart yogurt, frozen smoothie, milk, light cream, nonfat milk, cream, butter
+QUESOS: cottage cheese, grated cheese, parmesan cheese, strong cheese, fromage blanc
+SALSAS/CONDIMENTOS: tomato sauce, ligh_mayo, barbecue sauce, mayonnaise, mushroom cream sauce, chili, ketchup, burger sauce, honey, chutney, herb & pepper, flax seed, mint, salt
+ZUMOS: tomato juice, antioxydant juice,  
+POSTRES/DESAYUNOS: chocolate, extra dark chocolate, pancakes, cookies, cake, brownies, cereals, muffins, yogurt cake, chocolate bread, oatmeal
+BEBIDAS CARBONATADAS: energy drink, soda
+BEBIDAS ALCOHOLICAS: champagne, red wine, white wine, cider, french wine, dessert wine
+ACEITES: olive oil, cooking oil, oil
+AGUA: mineral water, sparkling water, water spray
+TE: green tea, black tea, tea, mint green tea
+BARRITAS: enery_bar, protein bar, candy bars, gluten free bar, hand protein bar
+PASTA: whole wheat pasta, spaghetti, pasta
+ASEO: shampoo, body spray, toothspath, 
+PATATAS: french_fries, mashed potato
+OTROS: whole weat flour, babies food, pet food, magazines, clothes accessories, bug spray, gums, napkins
+eggs,
+sandwich, 
+soup, 
+rice, , 
+fresh bread, 
